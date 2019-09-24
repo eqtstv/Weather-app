@@ -24,7 +24,6 @@ class App extends React.Component {
     
     if (data.name){
       this.setState({
-        temperature: data.main.temp,
         temperature: Math.round(data.main.temp),
         city: data.name,
         country: data.sys.country,
