@@ -3,5 +3,5 @@
 https://eqtstv.github.io/Weather-app/
 
 
-![Screenshot_4](https://user-images.githubusercontent.com/38236287/76082283-47fc8800-5fab-11ea-8a67-6ad025c01504.png)
+![Screenshot_5](https://user-images.githubusercontent.com/38236287/76082406-9873e580-5fab-11ea-8bae-660d040c59d1.png)
 
